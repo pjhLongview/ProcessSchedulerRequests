@@ -1,0 +1,54 @@
+Install Files
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+$
+{E9FD0E0C-489C-4A70-B3F3-7F074BB75E6F}
+{10DEF042-B2AA-492C-B1C3-2CE936561E08}
+{AC4F5E5A-2AE6-44F0-9C63-639F7F358D0F}
+{13B1A322-DD8F-4E89-91E6-9046149D6290}
+{D5D1D2B9-D0A1-4842-A8A9-2B837D07B29E}
+$
+{E9FD0E0C-489C-4A70-B3F3-7F074BB75E6F}
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\ProcessScheduledIrrigationActions\ProcessScheduledIrrigationActions\bin\Release\ProcessScheduledIrrigationActions.exe
+FALSE
+$TARGETDIR$
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+{10DEF042-B2AA-492C-B1C3-2CE936561E08}
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\Orchards\BusinessEntities\bin\Release\BusinessEntities.dll
+FALSE
+$TARGETDIR$
+{AC4F5E5A-2AE6-44F0-9C63-639F7F358D0F}
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\Orchards\BusinessEntities\bin\Release\EntityFramework.dll
+FALSE
+$TARGETDIR$
+{13B1A322-DD8F-4E89-91E6-9046149D6290}
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\Orchards\BusinessEntities\bin\Release\EntityFramework.SqlServer.dll
+FALSE
+$TARGETDIR$
+{D5D1D2B9-D0A1-4842-A8A9-2B837D07B29E}
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\Orchards\OrchardAPI\bin\System.Net.Http.dll
+TRUE
+
+$
+
+
+
+
+
+$
+
+
+
+
+
+$

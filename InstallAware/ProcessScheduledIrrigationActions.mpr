@@ -1,0 +1,93 @@
+ProcessScheduledIrrigationActions.mia
+prereq.dfm
+prereq.dfm.miaf
+componentstree.dfm
+componentstree.dfm.miaf
+wizard.dfm
+wizard.dfm.miaf
+welcome.dfm
+welcome.dfm.miaf
+startmenu.dfm
+startmenu.dfm.miaf
+setuptype.dfm
+setuptype.dfm.miaf
+registrationwithserial.dfm
+registrationwithserial.dfm.miaf
+registration.dfm
+registration.dfm.miaf
+readme.dfm
+readme.dfm.miaf
+startinstallation.dfm
+startinstallation.dfm.miaf
+progressprereq.dfm
+progressprereq.dfm.miaf
+destination.dfm
+destination.dfm.miaf
+finish.dfm
+finish.dfm.miaf
+licensecheck.dfm
+licensecheck.dfm.miaf
+maintenance.dfm
+maintenance.dfm.miaf
+progress.dfm
+progress.dfm.miaf
+$
+$
+$
+$
+0
+6
+TRUE
+
+Longview Ranch Programming
+ProcessScheduledIrrigationActions
+{ad5ab76e-f309-4fbb-ac26-79a7ab82d09e}
+{a5a73a22-d05b-4b35-9055-fce9012cbf93}
+1.0.0.0
+English
+Process Scheduled Irrigation Actions
+Orchard Automation Compnent
+Peter J. Hunter
+
+{d806e8c6-adb2-4db0-a761-2231da9d8fb4}
+Longview Ranch Programming
+Peter J. Hunter
+
+
+All Rights Reserved
+FALSE
+
+TRUE
+FALSE
+
+
+
+
+UAC=highestAvailable
+$
+$
+
+
+
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\ProcessScheduledIrrigationActions\InstallAware\InstallAutogen.mia
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\ProcessScheduledIrrigationActions\InstallAware\UninstallAutogen.mia
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\ProcessScheduledIrrigationActions\InstallAware\PostInstallAutogen.mia
+C:\Users\pjhunter\Documents\Visual Studio 2010\Projects\ProcessScheduledIrrigationActions\InstallAware\FinishAutogen.mia
+C:\Program Files (x86)\InstallAware X8\runtimes\checknet4aip_x86x64.mia
+C:\Program Files (x86)\InstallAware X8\runtimes\setupnet4aip_x86x64.mia
+$
+FALSE
+
+FALSE
+FALSE
+FALSE
+FALSE
